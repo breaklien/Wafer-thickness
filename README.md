@@ -23,4 +23,4 @@ calculate and adjust each measure area's thickness
 
 
 ## Python dependencies
-The list of required python packages is contained in the [requirements.txt](requirements.txt) file in this repository. After installing the required dependencies, run `main_baseline_subtraction.py` to execute the program.
+The list of required python packages is contained in the [requirements.txt](requirements.txt) file in this repository. After installing the required dependencies, run `thickness_main.py` to execute the program.
